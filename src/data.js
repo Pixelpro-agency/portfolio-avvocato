@@ -47,19 +47,19 @@ export const navigation = [
 export const testimonials = [
   {
     text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Jane Cooper',
+    name: 'Erminia Lavoni',
     image: ProfilePhoto1,
     position: 'Web Developer',
   },
   {
     text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Theresa Webb',
+    name: 'Erminia Lavoni',
     image: ProfilePhoto2,
     position: 'Web Designer',
   },
   {
     text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Kathryn Murphy',
+    name: 'Erminia Lavoni',
     image: ProfilePhoto3,
     position: 'UI/UX Designer',
   },

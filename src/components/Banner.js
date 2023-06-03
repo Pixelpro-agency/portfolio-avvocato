@@ -17,7 +17,7 @@ const Banner = () => {
       <div className='container mx-auto h-full lg:flex pt-32'>
         <div className='text-center mx-auto h-full lg:text-left px-8 md:p-0'>
           <h1 className='font-primary font-black text-6xl lg:text-7xl text-primary mb-4 lg:mt-[70px] leading-tight lg:leading-[90px]'>
-            Il Tuo Problema <br /> <span className='text-accent'>Il Nostro Obbiettivo</span>
+            Il Tuo Problema <br /> <span className='text-accent'>Il Nostro Obiettivo</span>
           </h1>
           <p className='max-w-sm mx-auto mb-[50px] lg:mx-0 lg:max-w-[540px]'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima,
